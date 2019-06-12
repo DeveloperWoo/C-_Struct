@@ -12,7 +12,6 @@
         public string Name;
         public double Gpa;
 
-        //public bool IsFullTime;
         public StudentStatus Status;
 
         //Constructor
